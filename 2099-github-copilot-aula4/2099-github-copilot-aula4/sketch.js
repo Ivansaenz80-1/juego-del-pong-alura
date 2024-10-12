@@ -14,7 +14,7 @@ class Pelota {
         this.x = x;
         this.y = y;
         this.diameter = diameter;
-        //velocidad el sentido inicial de la pelota sea un valor aleatorio, utiliza la función math.random()
+        //velocidad el sentido inicial, utiliza la función math.random()
         this.vx = vx;
         this.vy = vy;
         this.reset();
